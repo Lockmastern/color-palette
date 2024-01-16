@@ -1,0 +1,36 @@
+This is a beautiful color palette with Oranges, Purples, Yellows, and Blues
+
+Orange palette{
+    Pumpkin: #ED7D3A
+    Cocoa Brown: #D06E33
+}
+
+Purple palette{
+    Tekhelet: #592E83
+    Russian Violet: #432363
+}
+
+Yellow palette{
+    Jonquil: #EFCA08
+    Saffron: #E1BE08
+}
+
+Blue palette{
+    Dodger Blue: #0496FF
+    Bleu de France: #0488E8
+}
+
+Dark Green palette{
+    Myrtle Green: #357266
+    Brunswick Green: #28564D
+}
+
+Light Green palette{
+    Pastel Green: #14C059
+    Malachite: #16DB65
+}
+
+Powder Blue palette{
+    Powder Blue: #8DAECD
+    Lighter Powder Blue: #A1C6EA
+}
